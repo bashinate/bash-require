@@ -2,6 +2,8 @@
 
 An attempt at making a `require` style package system work with BASH scripting.
 
+[![NPM](https://nodei.co/npm/bash-require.png)](https://nodei.co/npm/bash-require/)
+
 ## Example Usage
 
 For the top level script that you with to make use of this, first create a `package.json` file as you would by launching `npm init`.  Once this process is completed, install the `bash-require` package using the following command:
