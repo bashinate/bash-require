@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DamonOehlman/bash-require/issues"
   },
-  "homepage": "https://github.com/DamonOehlman/bash-require"
+  "homepage": "https://github.com/DamonOehlman/bash-require",
+  "devDependencies": {
+    "bash-colorize": "git://github.com/DamonOehlman/bash-colorize"
+  }
 }
