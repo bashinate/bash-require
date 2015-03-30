@@ -1,0 +1,23 @@
+{
+  "name": "bash-require",
+  "version": "1.0.0",
+  "description": "An attempt at making a require process work in bash scripting land",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/bash-require.git"
+  },
+  "keywords": [
+    "bash",
+    "require"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/bash-require/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/bash-require"
+}
