@@ -49,6 +49,10 @@ chmod a+x test.sh
 ./test.sh
 ```
 
+All being well, you should see something similar to what is shown below:
+
+![screenshot](https://raw.githubusercontent.com/DamonOehlman/bash-require/master/screenshot.png)
+
 ## License(s)
 
 ### ISC
